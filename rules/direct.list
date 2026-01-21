@@ -1,4 +1,29 @@
+DOMAIN,local.adguard.org
 DOMAIN-SUFFIX,2ip.io
+DOMAIN-SUFFIX,rustore.ru
+DOMAIN-SUFFIX,netcraze.cloud
+DOMAIN-SUFFIX,netcraze.ru
+
+# WPC
 DOMAIN-SUFFIX,crazypanda.ru
 DOMAIN-SUFFIX,crazypanda.games
 DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,vkuserphoto.ru
+DOMAIN-SUFFIX,userapi.com
+
+# MTS
+DOMAIN-SUFFIX,mts.ru
+DOMAIN-SUFFIX,mtsdengi.ru
+DOMAIN-SUFFIX,mwscdn.ru
+
+# Medsi
+DOMAIN-SUFFIX,medsi.ru
+DOMAIN-SUFFIX,smartmed.pro
+
+# Gov
+DOMAIN-SUFFIX,mos.ru
+DOMAIN-SUFFIX,mosreg.ru
+DOMAIN-SUFFIX,nalog.ru
+DOMAIN-SUFFIX,112mo.ru
+DOMAIN-SUFFIX,gu-st.ru
+DOMAIN-SUFFIX,gosuslugi.ru
