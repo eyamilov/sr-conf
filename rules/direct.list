@@ -3,6 +3,20 @@ DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,rustore.ru
 DOMAIN-SUFFIX,netcraze.cloud
 DOMAIN-SUFFIX,netcraze.ru
+DOMAIN-SUFFIX,keenetic.cloud
+DOMAIN-SUFFIX,keenetic.ru
+DOMAIN-SUFFIX,keenetic.com
+DOMAIN-SUFFIX,keenetic.io
+DOMAIN-SUFFIX,keenetic.net
+DOMAIN-SUFFIX,istranet.ru
+DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,2gis.ru
+DOMAIN-SUFFIX,2gis.com
+DOMAIN-SUFFIX,moisport.ru
+DOMAIN-SUFFIX,csmoisport.ru
+DOMAIN-SUFFIX,mosenergosbyt.ru
+DOMAIN-SUFFIX,mosobleirc.ru
+DOMAIN-SUFFIX,smartdriving.io
 
 # WPC
 DOMAIN-SUFFIX,crazypanda.ru
@@ -11,7 +25,7 @@ DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,vkuserphoto.ru
 DOMAIN-SUFFIX,userapi.com
 
-# MTS
+# Mob
 DOMAIN-SUFFIX,mts.ru
 DOMAIN-SUFFIX,mtsdengi.ru
 DOMAIN-SUFFIX,mwscdn.ru
@@ -20,10 +34,60 @@ DOMAIN-SUFFIX,mwscdn.ru
 DOMAIN-SUFFIX,medsi.ru
 DOMAIN-SUFFIX,smartmed.pro
 
-# Gov
+# Government
 DOMAIN-SUFFIX,mos.ru
 DOMAIN-SUFFIX,mosreg.ru
 DOMAIN-SUFFIX,nalog.ru
 DOMAIN-SUFFIX,112mo.ru
 DOMAIN-SUFFIX,gu-st.ru
 DOMAIN-SUFFIX,gosuslugi.ru
+DOMAIN-SUFFIX,gov.ru
+
+# Talk
+DOMAIN-SUFFIX,ktalk.ru
+DOMAIN-SUFFIX,kontur.ru
+DOMAIN-SUFFIX,kontur.host
+
+# Fin
+DOMAIN-SUFFIX,raiffeisen.ru
+DOMAIN-SUFFIX,raif.ru
+DOMAIN-SUFFIX,rbinternational.com
+DOMAIN-SUFFIX,tbank.ru
+DOMAIN-SUFFIX,tinkoff.ru
+DOMAIN-SUFFIX,cdn-tinkoff.ru
+DOMAIN-SUFFIX,t-bank-app.ru
+DOMAIN-SUFFIX,t-static.ru
+DOMAIN-SUFFIX,tinkoffinsurance.ru
+DOMAIN-SUFFIX,tmiaf.ru
+DOMAIN-SUFFIX,sberbank.ru
+DOMAIN-SUFFIX,sber.ru
+DOMAIN-SUFFIX,sberbank.com
+DOMAIN-SUFFIX,bog.ge
+DOMAIN-SUFFIX,bankofgeorgia.ge
+DOMAIN-SUFFIX,bankffin.kz
+DOMAIN-SUFFIX,freedombank.kz
+DOMAIN-SUFFIX,f.bank
+DOMAIN-SUFFIX,bcc.kz
+DOMAIN-SUFFIX,kaspi.kz
+DOMAIN-SUFFIX,cdn-kaspi.kz
+DOMAIN-SUFFIX,koronapay.com
+DOMAIN-SUFFIX,koronapay.eu
+DOMAIN-SUFFIX,koronapay.ru
+DOMAIN-SUFFIX,koronapay.kz
+DOMAIN-SUFFIX,koronapay.com.ua
+DOMAIN-SUFFIX,koronapay.md
+DOMAIN-SUFFIX,koronapay.uz
+DOMAIN-SUFFIX,koronapay.kg
+DOMAIN-SUFFIX,koronapay.am
+DOMAIN-SUFFIX,koronapay.ge
+DOMAIN-SUFFIX,koronapay.az
+DOMAIN-KEYWORD,koronapay
+DOMAIN-SUFFIX,mironline.ru
+DOMAIN-SUFFIX,mirpay.ru
+DOMAIN-SUFFIX,nspk.ru
+DOMAIN-SUFFIX,privetmir.ru
+DOMAIN-SUFFIX,vamprivet.ru
+DOMAIN-SUFFIX,gazfond-pn.ru
+
+# Shop
+DOMAIN-SUFFIX,vkusvill.ru
