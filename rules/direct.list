@@ -29,6 +29,10 @@ DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,mts.ru
 DOMAIN-SUFFIX,mtsdengi.ru
 DOMAIN-SUFFIX,mwscdn.ru
+DOMAIN-SUFFIX,megafon.ru
+DOMAIN-SUFFIX,t2.ru
+DOMAIN-SUFFIX,beeline.ru
+DOMAIN-SUFFIX,tmiaf.ru
 
 # Medsi
 DOMAIN-SUFFIX,medsi.ru
