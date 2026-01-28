@@ -67,6 +67,7 @@ DOMAIN-SUFFIX,tinkoffpay.com
 DOMAIN-SUFFIX,sberbank.ru
 DOMAIN-SUFFIX,sber.ru
 DOMAIN-SUFFIX,sberbank.com
+DOMAIN-SUFFIX,sbrf.ru
 DOMAIN-SUFFIX,sberpay.ru
 DOMAIN-SUFFIX,bog.ge
 DOMAIN-SUFFIX,bankofgeorgia.ge
@@ -97,3 +98,4 @@ DOMAIN-SUFFIX,gazfond-pn.ru
 
 # Shop
 DOMAIN-SUFFIX,vkusvill.ru
+DOMAIN-SUFFIX,dixy.ru
