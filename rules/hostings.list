@@ -20,3 +20,5 @@ DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-SUFFIX,do.co
 DOMAIN-SUFFIX,nginxconfig.io
 DOMAIN-SUFFIX,vpnmentor.com
+IP-CIDR,100.42.181.253/32,no-resolve
+IP-CIDR,100.42.181.253/32,no-resolve
