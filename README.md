@@ -38,10 +38,7 @@ IP-адреса). Подходит, если VPN нужен по умолчан�
 >
 > Для корректной работы правил GEOIP необходимо подключить базу GeoLite2:
 > 1. Открой **Settings → Update → GeoLite2 Database**
-> 2. В поле **Country → URL** вставь:
-     ```
-     https://git.io/GeoLite2-Country.mmdb
-     ```
+> 2. В поле **Country → URL** вставь: https://git.io/GeoLite2-Country.mmdb
 > 3. Нажми **Update**
 
 ### `resilient.conf`
