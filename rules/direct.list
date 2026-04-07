@@ -10,9 +10,8 @@ DOMAIN-SUFFIX,keenetic.com
 DOMAIN-SUFFIX,keenetic.io
 DOMAIN-SUFFIX,keenetic.net
 DOMAIN-SUFFIX,istranet.ru
-DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,2gis.ru
-DOMAIN-SUFFIX,2gis.com
+DOMAIN-KEYWORD,2gis
 DOMAIN-SUFFIX,moisport.ru
 DOMAIN-SUFFIX,csmoisport.ru
 DOMAIN-SUFFIX,mosenergosbyt.ru
@@ -20,6 +19,10 @@ DOMAIN-SUFFIX,mosobleirc.ru
 DOMAIN-SUFFIX,smartdriving.io
 DOMAIN-SUFFIX,pochtoy.com
 DOMAIN-SUFFIX,cdek.ru
+DOMAIN-SUFFIX,pochta.ru
+DOMAIN-SUFFIX,xn--80ajghhoc2aj1c8b.xn--p1ai
+DOMAIN-SUFFIX,sberlabs.com
+DOMAIN-SUFFIX,sberbs.ru
 
 # WPC
 DOMAIN-SUFFIX,crazypanda.ru
@@ -28,14 +31,20 @@ DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,vkuserphoto.ru
 DOMAIN-SUFFIX,userapi.com
 
-# Mob
+# Telecom
 DOMAIN-SUFFIX,mts.ru
+DOMAIN-SUFFIX,mymts.ru
 DOMAIN-SUFFIX,mtsdengi.ru
 DOMAIN-SUFFIX,mwscdn.ru
 DOMAIN-SUFFIX,megafon.ru
 DOMAIN-SUFFIX,t2.ru
+DOMAIN-SUFFIX,tele2.ru
 DOMAIN-SUFFIX,beeline.ru
 DOMAIN-SUFFIX,tmiaf.ru
+DOMAIN-SUFFIX,dom.ru
+DOMAIN-SUFFIX,rostelecom.ru
+DOMAIN-SUFFIX,rt.ru
+DOMAIN-SUFFIX,yota.ru
 
 # Medsi
 DOMAIN-SUFFIX,medsi.ru
@@ -49,6 +58,22 @@ DOMAIN-SUFFIX,112mo.ru
 DOMAIN-SUFFIX,gu-st.ru
 DOMAIN-SUFFIX,gosuslugi.ru
 DOMAIN-SUFFIX,gov.ru
+DOMAIN-SUFFIX,government.ru
+DOMAIN-SUFFIX,emias.info
+DOMAIN-SUFFIX,mgfoms.ru
+DOMAIN-SUFFIX,edu.ru
+DOMAIN-SUFFIX,ro-edu.ru
+DOMAIN-SUFFIX,cbr.ru
+DOMAIN-SUFFIX,cikrf.ru
+DOMAIN-SUFFIX,ebs.ru
+DOMAIN-SUFFIX,goskey.ru
+DOMAIN-SUFFIX,grfc.ru
+DOMAIN-SUFFIX,izbirkom.ru
+DOMAIN-SUFFIX,kremlin.ru
+DOMAIN-SUFFIX,mil.ru
+DOMAIN-SUFFIX,xn--b1aew.xn--p1ai
+DOMAIN-SUFFIX,xn--80aebkobnwfcnsfk1e0h.xn--p1ai
+DOMAIN-SUFFIX,xn--90adear.xn--p1ai
 
 # Talk
 DOMAIN-SUFFIX,ktalk.ru
@@ -67,9 +92,6 @@ DOMAIN-SUFFIX,t-static.ru
 DOMAIN-SUFFIX,tinkoffinsurance.ru
 DOMAIN-SUFFIX,tmiaf.ru
 DOMAIN-SUFFIX,tinkoffpay.com
-DOMAIN-SUFFIX,sberbank.ru
-DOMAIN-SUFFIX,sber.ru
-DOMAIN-SUFFIX,sberbank.com
 DOMAIN-SUFFIX,sbrf.ru
 DOMAIN-SUFFIX,sberpay.ru
 DOMAIN-SUFFIX,bog.ge
@@ -94,11 +116,237 @@ DOMAIN-SUFFIX,koronapay.az
 DOMAIN-KEYWORD,koronapay
 DOMAIN-SUFFIX,mironline.ru
 DOMAIN-SUFFIX,mirpay.ru
+DOMAIN-SUFFIX,mirpayonline.ru
 DOMAIN-SUFFIX,nspk.ru
 DOMAIN-SUFFIX,privetmir.ru
 DOMAIN-SUFFIX,vamprivet.ru
 DOMAIN-SUFFIX,gazfond-pn.ru
+DOMAIN-SUFFIX,moex.com
 
 # Shop
 DOMAIN-SUFFIX,vkusvill.ru
 DOMAIN-SUFFIX,dixy.ru
+DOMAIN-SUFFIX,avito.ru
+DOMAIN-SUFFIX,avito.st
+DOMAIN-SUFFIX,lenta.com
+DOMAIN-SUFFIX,sportmaster.ru
+DOMAIN-SUFFIX,detmir.ru
+DOMAIN-SUFFIX,auchan.ru
+DOMAIN-SUFFIX,globus.ru
+DOMAIN-SUFFIX,mvideo.ru
+DOMAIN-SUFFIX,verno-info.ru
+DOMAIN-SUFFIX,krasnoeibeloe.ru
+DOMAIN-SUFFIX,winelab.ru
+DOMAIN-SUFFIX,lemanapro.ru
+
+# Entertainment
+# source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-entertainment-ru
+# source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/okko
+# source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/rutube
+# source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/kinopoisk
+# source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/wink
+DOMAIN-SUFFIX,cdnvideo.ru
+DOMAIN-SUFFIX,cdnvideohub.com
+DOMAIN-SUFFIX,24h.tv
+DOMAIN-SUFFIX,amediateka.ru
+DOMAIN-SUFFIX,beeline.tv
+DOMAIN-SUFFIX,ivi.ru
+DOMAIN-SUFFIX,premier.one
+DOMAIN-SUFFIX,smotreshka.tv
+DOMAIN-SUFFIX,start.ru
+DOMAIN-SUFFIX,tvigle.ru
+DOMAIN-SUFFIX,viju.ru
+DOMAIN-SUFFIX,playfamily.ru
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,rutubelist.ru
+DOMAIN-SUFFIX,rtbcdn.ru
+DOMAIN-SUFFIX,kinopoisk.ru
+DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,wink.ru
+
+# X5
+# source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/x5
+DOMAIN-SUFFIX,5ka.ru
+DOMAIN-SUFFIX,5post.market
+DOMAIN-SUFFIX,chizhik.club
+DOMAIN-SUFFIX,clubx5.ru
+DOMAIN-SUFFIX,dialogx5.ru
+DOMAIN-SUFFIX,e5.ru
+DOMAIN-SUFFIX,fivepost.ru
+DOMAIN-SUFFIX,idx5.ru
+DOMAIN-SUFFIX,jx5.ru
+DOMAIN-SUFFIX,keyx5.ru
+DOMAIN-SUFFIX,mnogolososya.ru
+DOMAIN-SUFFIX,myapelsin.ru
+DOMAIN-SUFFIX,okolo.app
+DOMAIN-SUFFIX,perekrestok.com
+DOMAIN-SUFFIX,perekrestok.ru
+DOMAIN-SUFFIX,x5.ai
+DOMAIN-SUFFIX,x5.com
+DOMAIN-SUFFIX,x5.digital
+DOMAIN-SUFFIX,x5.group
+DOMAIN-SUFFIX,x5.media
+DOMAIN-SUFFIX,x5.ru
+DOMAIN-SUFFIX,x5.team
+DOMAIN-SUFFIX,x5.tech
+DOMAIN-SUFFIX,x5club.ru
+DOMAIN-SUFFIX,x5id.ru
+DOMAIN-SUFFIX,x5l.ru
+DOMAIN-SUFFIX,x5paket.ru
+DOMAIN-SUFFIX,x5q.ru
+DOMAIN-SUFFIX,x5static.net
+DOMAIN-SUFFIX,x5w.ru
+
+# WB
+# source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/wildberries
+DOMAIN-SUFFIX,geobasket.ru
+DOMAIN-SUFFIX,paywb.com
+DOMAIN-SUFFIX,rwb.ru
+DOMAIN-SUFFIX,wb-basket.ru
+DOMAIN-SUFFIX,wb.ru
+DOMAIN-SUFFIX,wbbasket.ru
+DOMAIN-SUFFIX,wbpay.ru
+DOMAIN-SUFFIX,wibes.ru
+DOMAIN-SUFFIX,wildberries.ru
+
+# Ozon
+# source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/ozon
+DOMAIN-SUFFIX,ozon.by
+DOMAIN-SUFFIX,ozon.com
+DOMAIN-SUFFIX,ozon.com.by
+DOMAIN-SUFFIX,ozon.com.kz
+DOMAIN-SUFFIX,ozon.kz
+DOMAIN-SUFFIX,ozon.ru
+DOMAIN-SUFFIX,ozon.tm
+DOMAIN-SUFFIX,ozone.ru
+DOMAIN-SUFFIX,ozonru.me
+DOMAIN-SUFFIX,ozonusercontent.com
+
+# Sber
+# source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/sber
+DOMAIN-SUFFIX,bps-sberbank.by
+DOMAIN-SUFFIX,sber-bank.by
+DOMAIN-SUFFIX,sber.ru
+DOMAIN-SUFFIX,sberbank.com
+DOMAIN-SUFFIX,sberbank.ru
+DOMAIN-SUFFIX,21-school.ru
+DOMAIN-SUFFIX,afisha.ru
+DOMAIN-SUFFIX,citydrive.ru
+DOMAIN-SUFFIX,cloud.ru
+DOMAIN-SUFFIX,cloudru.cn
+DOMAIN-SUFFIX,eapteka.ru
+DOMAIN-SUFFIX,giga.chat
+DOMAIN-SUFFIX,id.ru
+DOMAIN-SUFFIX,kuper.ru
+DOMAIN-SUFFIX,megamarket.ru
+DOMAIN-SUFFIX,megamarket.tech
+DOMAIN-SUFFIX,otello.ru
+DOMAIN-SUFFIX,samokat.ru
+DOMAIN-SUFFIX,sberauto.com
+DOMAIN-SUFFIX,sberbank-insurance.ru
+DOMAIN-SUFFIX,sbercloud.ru
+DOMAIN-SUFFIX,sbercloud.tech
+DOMAIN-SUFFIX,sberdevices.ru
+DOMAIN-SUFFIX,sberdisk.ru
+DOMAIN-SUFFIX,sberindex.ru
+DOMAIN-SUFFIX,sberbankins.ru
+DOMAIN-SUFFIX,sberhealth.ru
+DOMAIN-SUFFIX,sberleasing.ru
+DOMAIN-SUFFIX,sberlogistics.ru
+DOMAIN-SUFFIX,sbermegamarket.ru
+DOMAIN-SUFFIX,sbermobile.ru
+DOMAIN-SUFFIX,sberpb.ru
+DOMAIN-SUFFIX,sbertroika.ru
+DOMAIN-SUFFIX,spasibosb.ru
+DOMAIN-SUFFIX,spasibosberbank.ru
+DOMAIN-SUFFIX,zvuk-b2b.com
+DOMAIN-SUFFIX,zvuk.com
+DOMAIN-SUFFIX,sber.pro
+
+# Mailru
+# source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/mailru
+# source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/mailru-group
+# source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/dzen
+# source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/ok
+DOMAIN-SUFFIX,imgsmail.ru
+DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,boosty.to
+DOMAIN-SUFFIX,donationalerts.com
+DOMAIN-SUFFIX,max.ru
+DOMAIN-SUFFIX,memealerts.com
+DOMAIN-SUFFIX,oneme.ru
+DOMAIN-SUFFIX,tamtam.chat
+DOMAIN-SUFFIX,telega.info
+DOMAIN-SUFFIX,telega.me
+DOMAIN-SUFFIX,youla.io
+DOMAIN-SUFFIX,youla.ru
+DOMAIN-SUFFIX,mrgcdn.ru
+DOMAIN-SUFFIX,dzen.ru
+DOMAIN-SUFFIX,dzeninfra.ru
+DOMAIN-SUFFIX,ok.ru
+DOMAIN-SUFFIX,okcdn.ru
+DOMAIN-SUFFIX,mycdn.me
+
+# VK
+# source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/vk
+DOMAIN-SUFFIX,cdn-vk.ru
+DOMAIN-SUFFIX,mradx.net
+DOMAIN-SUFFIX,mvk.com
+DOMAIN-SUFFIX,userapi.com
+DOMAIN-SUFFIX,vk-analytics.ru
+DOMAIN-SUFFIX,vk-apps.com
+DOMAIN-SUFFIX,vk-apps.ru
+DOMAIN-SUFFIX,vk-cdn.me
+DOMAIN-SUFFIX,vk-cdn.net
+DOMAIN-SUFFIX,vkcloud-static.ru
+DOMAIN-SUFFIX,vk-portal.net
+DOMAIN-SUFFIX,vk.cc
+DOMAIN-SUFFIX,vk.com
+DOMAIN-SUFFIX,vk.company
+DOMAIN-SUFFIX,vk.design
+DOMAIN-SUFFIX,vk.link
+DOMAIN-SUFFIX,vk.me
+DOMAIN-SUFFIX,vk.ru
+DOMAIN-SUFFIX,vk.team
+DOMAIN-SUFFIX,vkcache.com
+DOMAIN-SUFFIX,vkgo.app
+DOMAIN-SUFFIX,vklive.app
+DOMAIN-SUFFIX,vkmessenger.app
+DOMAIN-SUFFIX,vkmessenger.com
+DOMAIN-SUFFIX,vkontakte.ru
+DOMAIN-SUFFIX,vkuser.net
+DOMAIN-SUFFIX,vkuseraudio.com
+DOMAIN-SUFFIX,vkuseraudio.net
+DOMAIN-SUFFIX,vkuseraudio.ru
+DOMAIN-SUFFIX,vkusercdn.ru
+DOMAIN-SUFFIX,vkuserlive.net
+DOMAIN-SUFFIX,vkuserphoto.ru
+DOMAIN-SUFFIX,vkuservideo.com
+DOMAIN-SUFFIX,vkuservideo.net
+DOMAIN-SUFFIX,vkuservideo.ru
+DOMAIN-SUFFIX,vkvideo.ru
+DOMAIN-SUFFIX,vkplay.ru
+
+# Tbank
+# source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/tbank-ru
+DOMAIN-SUFFIX,bankline.ru
+DOMAIN-SUFFIX,cdn-tinkoff.ru
+DOMAIN-SUFFIX,dolyame.ru
+DOMAIN-SUFFIX,phoenix-ca.ru
+DOMAIN-SUFFIX,rosbank.ru
+DOMAIN-SUFFIX,t-bank-app.ru
+DOMAIN-SUFFIX,t-j.ru
+DOMAIN-SUFFIX,t-static.ru
+DOMAIN-SUFFIX,t-technologies.ru
+DOMAIN-SUFFIX,tbank-online.com
+DOMAIN-SUFFIX,tbank.ru
+DOMAIN-SUFFIX,tinkoff-group.com
+DOMAIN-SUFFIX,tinkoff.ru
+DOMAIN-SUFFIX,tinkoffjournal.ru
+DOMAIN-SUFFIX,tinsurance.ru
+DOMAIN-SUFFIX,unidraw.io
+DOMAIN-SUFFIX,centraluniversity.ru
+DOMAIN-SUFFIX,cu.ru
