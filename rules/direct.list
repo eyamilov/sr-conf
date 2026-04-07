@@ -23,6 +23,21 @@ DOMAIN-SUFFIX,pochta.ru
 DOMAIN-SUFFIX,xn--80ajghhoc2aj1c8b.xn--p1ai
 DOMAIN-SUFFIX,sberlabs.com
 DOMAIN-SUFFIX,sberbs.ru
+DOMAIN-SUFFIX,russoutdoor.ru
+DOMAIN-SUFFIX,hh.ru
+DOMAIN-SUFFIX,cian.ru
+DOMAIN-SUFFIX,gismeteo.ru
+DOMAIN-SUFFIX,rambler.ru
+DOMAIN-SUFFIX,lenta.ru
+DOMAIN-SUFFIX,gazeta.ru
+DOMAIN-SUFFIX,myrambler.ru
+DOMAIN-SUFFIX,autorambler.ru
+DOMAIN-SUFFIX,ro.ru
+DOMAIN-SUFFIX,r0.ru
+DOMAIN-SUFFIX,rambler-co.ru
+DOMAIN-SUFFIX,tutu.ru
+DOMAIN-SUFFIX,rbc.ru
+DOMAIN-SUFFIX,rbc.group
 
 # WPC
 DOMAIN-SUFFIX,crazypanda.ru
@@ -123,6 +138,7 @@ DOMAIN-SUFFIX,dixy.ru
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
 DOMAIN-SUFFIX,lenta.com
+DOMAIN-SUFFIX,lenta.tech
 DOMAIN-SUFFIX,sportmaster.ru
 DOMAIN-SUFFIX,detmir.ru
 DOMAIN-SUFFIX,auchan.ru
@@ -132,6 +148,37 @@ DOMAIN-SUFFIX,verno-info.ru
 DOMAIN-SUFFIX,krasnoeibeloe.ru
 DOMAIN-SUFFIX,winelab.ru
 DOMAIN-SUFFIX,lemanapro.ru
+DOMAIN-SUFFIX,magnit.ru
+DOMAIN-SUFFIX,mm.ru
+DOMAIN-SUFFIX,av.ru
+DOMAIN-SUFFIX,bristol.ru
+DOMAIN-SUFFIX,vseinstrumenti.ru
+DOMAIN-SUFFIX,lamoda.ru
+DOMAIN-SUFFIX,litres.ru
+DOMAIN-SUFFIX,myspar.ru
+DOMAIN-SUFFIX,ilovesakura.ru
+DOMAIN-SUFFIX,fix-price.com
+
+# Cafes and restaurants
+DOMAIN-SUFFIX,sushiwok.ru
+DOMAIN-SUFFIX,rostics.ru
+DOMAIN-SUFFIX,uni.rest
+DOMAIN-SUFFIX,unirest.tech
+DOMAIN-SUFFIX,vkusnoitochka.ru
+DOMAIN-SUFFIX,evrasia.rest
+DOMAIN-SUFFIX,dostaevsky.ru
+DOMAIN-SUFFIX,dodois.com
+DOMAIN-SUFFIX,dodois.io
+DOMAIN-SUFFIX,dodopizza.com
+DOMAIN-SUFFIX,dodopizza.ru
+DOMAIN-SUFFIX,dodostatic.net
+DOMAIN-SUFFIX,burgerking.ru
+DOMAIN-SUFFIX,burgerking-burger.ru
+DOMAIN-SUFFIX,burgerking-top.ru
+DOMAIN-SUFFIX,yakitoriya.ru
+DOMAIN-SUFFIX,delivery-club.ru
+DOMAIN-SUFFIX,shoko.ru
+DOMAIN-SUFFIX,samokat.ru
 
 # Entertainment
 # source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-entertainment-ru
@@ -160,6 +207,26 @@ DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,wink.ru
+DOMAIN-SUFFIX,championat.com
+
+# Cars and scooters
+DOMAIN-SUFFIX,lukoil.ru
+DOMAIN-SUFFIX,lukoil.com
+DOMAIN-SUFFIX,rosneft.ru
+DOMAIN-SUFFIX,rosneft.com
+DOMAIN-SUFFIX,tatneft.ru
+DOMAIN-SUFFIX,gazprom-neft.ru
+DOMAIN-SUFFIX,gazpromneft-oil.ru
+DOMAIN-SUFFIX,g-energy.org
+DOMAIN-SUFFIX,webneft.ru
+DOMAIN-SUFFIX,opti-24.ru
+DOMAIN-SUFFIX,gpnbonus.ru
+DOMAIN-SUFFIX,avtodor-tr.ru
+DOMAIN-SUFFIX,tpass.me
+DOMAIN-SUFFIX,delimobil.ru
+DOMAIN-SUFFIX,belkacar.ru
+DOMAIN-SUFFIX,whoosh-bike.ru
+DOMAIN-SUFFIX,urent.ru
 
 # X5
 # source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/x5
@@ -344,3 +411,52 @@ DOMAIN-SUFFIX,tinsurance.ru
 DOMAIN-SUFFIX,unidraw.io
 DOMAIN-SUFFIX,centraluniversity.ru
 DOMAIN-SUFFIX,cu.ru
+
+# Rutube
+# source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/rutube
+DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,rutubelist.ru
+DOMAIN-SUFFIX,rtbcdn.ru
+DOMAIN-SUFFIX,rutube.video
+DOMAIN-SUFFIX,rutube.media
+DOMAIN-SUFFIX,rutube.cloud
+
+# Gazprom media
+DOMAIN-SUFFIX,gazprom-media.com
+DOMAIN-SUFFIX,gpmradio.ru
+DOMAIN-SUFFIX,ntv.ru
+DOMAIN-SUFFIX,ntvplus.ru
+DOMAIN-SUFFIX,tnt-online.ru
+DOMAIN-SUFFIX,tnt4.ru
+DOMAIN-SUFFIX,tv3.ru
+DOMAIN-SUFFIX,friday.ru
+DOMAIN-SUFFIX,2x2tv.ru
+DOMAIN-SUFFIX,matchtv.ru
+DOMAIN-SUFFIX,subbota.tv
+DOMAIN-SUFFIX,premier.one
+DOMAIN-SUFFIX,yappy.media
+DOMAIN-SUFFIX,sportbox.ru
+DOMAIN-SUFFIX,vokrug.tv
+DOMAIN-SUFFIX,srslly.ru
+DOMAIN-SUFFIX,getintent.com
+DOMAIN-SUFFIX,avtoradio.ru
+DOMAIN-SUFFIX,nrj.ru
+DOMAIN-SUFFIX,energyfm.ru
+DOMAIN-SUFFIX,yumor.fm
+DOMAIN-SUFFIX,comedy-radio.ru
+DOMAIN-SUFFIX,detskoeradio.ru
+DOMAIN-SUFFIX,likefm.ru
+DOMAIN-SUFFIX,relax-fm.ru
+DOMAIN-SUFFIX,romantika.ru
+DOMAIN-SUFFIX,centralpartnership.ru
+DOMAIN-SUFFIX,redmedia.ru
+DOMAIN-SUFFIX,comedyclub.ru
+DOMAIN-SUFFIX,7days.ru
+DOMAIN-SUFFIX,ntvvideo.ru
+DOMAIN-SUFFIX,ntvplus.tv
+DOMAIN-SUFFIX,gpm.su
+DOMAIN-SUFFIX,gpm.systems
+DOMAIN-SUFFIX,redmediatv.ru
+DOMAIN-SUFFIX,gazprommedia.digital
+DOMAIN-SUFFIX,gazprommedia.tech
+DOMAIN-SUFFIX,gpmrtv.ru
