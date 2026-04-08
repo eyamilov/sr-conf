@@ -38,13 +38,8 @@ IP-адреса). Подходит, если VPN нужен по умолчан�
 >
 > Для корректной работы правил GEOIP необходимо подключить базу GeoLite2:
 > 1. Открой **Settings → Update → GeoLite2 Database**
-> 2. В поле **Country → URL** вставь: https://git.io/GeoLite2-Country.mmdb
+> 2. В поле **Country → URL** вставь: `https://git.io/GeoLite2-Country.mmdb`
 > 3. Нажми **Update**
-
-### `resilient.conf`
-
-В разработке. Для обхода блокировки интернета по т.н. "белым спискам" (когда ничего не работает кроме ограниченного
-круга ресурсов) и для повышения отказоустойчивости.
 
 ## Установка
 
@@ -52,23 +47,23 @@ IP-адреса). Подходит, если VPN нужен по умолчан�
 
 1. Открой Shadowrocket
 2. Перейди в раздел Config
-3. Нажми **⛶** (Scan QR Code)
+3. Нажми `⛶` (Scan QR Code)
 4. Отсканируй нужный QR-код из папки `qr-codes/`
 
 ### Через ссылку
 
 1. Скопируй URL конфига
 
-   https://raw.githubusercontent.com/eyamilov/sr-conf/main/profiles/domain-rules.conf
+   `https://raw.githubusercontent.com/eyamilov/sr-conf/main/profiles/domain-rules.conf`
 
-   https://raw.githubusercontent.com/eyamilov/sr-conf/main/profiles/proxy-with-exclusions.conf
+   `https://raw.githubusercontent.com/eyamilov/sr-conf/main/profiles/proxy-with-exclusions.conf`
 
-2. В Shadowrocket: Config → **+** → вставь URL → Download
+2. В Shadowrocket: Config → `+` → вставь URL → Download
 
 ### Вручную
 
 1. Скачай нужный `.conf` из папки `profiles/`
-2. В Shadowrocket: Config → Import... → импортируй файл
+2. В Shadowrocket: Config → Import… → импортируй файл
 
 ## Требования
 
@@ -76,7 +71,7 @@ IP-адреса). Подходит, если VPN нужен по умолчан�
 - Приложение [Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118) ($2.99 в App Store)
 - Настроенный VPN-сервер (VLESS, Trojan, SS и др.)
 
-## Ссылки на использованные ресурсы
+## Источники
 
 - [GitHub - P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)
 - [GitHub - v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
