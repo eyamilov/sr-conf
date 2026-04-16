@@ -412,6 +412,43 @@ DOMAIN-SUFFIX,unidraw.io
 DOMAIN-SUFFIX,centraluniversity.ru
 DOMAIN-SUFFIX,cu.ru
 
+# category-bank-ru
+# source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-bank-ru
+# Alfa Bank
+DOMAIN-SUFFIX,alfabank.ru
+DOMAIN-SUFFIX,alfabank.st
+DOMAIN-SUFFIX,alfadirect.ru
+DOMAIN-SUFFIX,myapelsin.ru
+# BCS bank
+DOMAIN-SUFFIX,bcs.ru
+DOMAIN-SUFFIX,bcs-bank.ru
+DOMAIN-SUFFIX,broker.ru
+# GazpromBank
+DOMAIN-SUFFIX,gazprombank.com
+DOMAIN-SUFFIX,gazprombank.investments
+DOMAIN-SUFFIX,gazprombank.ru
+DOMAIN-SUFFIX,gpb.ru
+# MKB
+DOMAIN-SUFFIX,mkb.ru
+# MTS Dengi
+DOMAIN-SUFFIX,dbo-dengi.online
+DOMAIN-SUFFIX,mtsdengi.ru
+# PSB Bank
+DOMAIN-SUFFIX,payment.ru
+DOMAIN-SUFFIX,psb-ocenka.ru
+DOMAIN-SUFFIX,psb.ru
+DOMAIN-SUFFIX,psbank.ru
+# RUSSIA Bank
+DOMAIN-SUFFIX,abr.ru
+# Russian Agricultural Bank
+DOMAIN-SUFFIX,rshb.ru
+# Tochka bank
+DOMAIN-SUFFIX,tochka-tech.com
+DOMAIN-SUFFIX,tochka.com
+# VTB Bank
+DOMAIN-SUFFIX,pochtabank.ru
+DOMAIN-SUFFIX,vtb.ru
+
 # Rutube
 # source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/rutube
 DOMAIN-SUFFIX,rutube.ru
