@@ -45,6 +45,17 @@ DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,vkuserphoto.ru
 DOMAIN-SUFFIX,userapi.com
 
+# PUBG
+DOMAIN-SUFFIX,kraftonde.com
+DOMAIN-SUFFIX,playbattlegrounds.com
+DOMAIN-SUFFIX,pubg.com
+DOMAIN-SUFFIX,battleye.com
+DOMAIN-SUFFIX,pubgbluehole.com
+DOMAIN-SUFFIX,krafton.com
+DOMAIN-SUFFIX,kraftonid.com
+DOMAIN-SUFFIX,wellbia.com
+DOMAIN-SUFFIX,uncheater.com
+
 # Telecom
 DOMAIN-SUFFIX,mts.ru
 DOMAIN-SUFFIX,mymts.ru
